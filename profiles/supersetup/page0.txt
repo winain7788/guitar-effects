@@ -9,10 +9,10 @@ ledbright = [30]
 screenbright = [80]
 
 # on / off --Selecting black or white fonts according to the wallpaper background
-dark_fonts = [off]
+dark_fonts = [on]
 
 # wp1 --Only one wallpaper coming along with the FW package now, you can add later
-wallpaper = [wp1]
+wallpaper = [wp15]
 
 # 1 / 1.5 / 2 / 2.5 --long press time in second
 long_press_timing = [1]
@@ -21,7 +21,7 @@ long_press_timing = [1]
 WIRELESS_2.4G = [on]
 
 # ID range 1-99 --Set to be the same with the MIDI MATE
-WIRELESS_ID   = [8]
+WIRELESS_ID   = [78]
 
 # 0:12dBm 1:10dBm 2:9dBm 3:8dBm 4:6dBm 5:3dBm 6:0dBm 7:-2dBm 8:-5dBm 9:-10dBm 10:-15dBm 11:-20dBm 12:-25dBm 13:-30dBm 14:-25dBm
 WIRELESS_dB   = [6]
